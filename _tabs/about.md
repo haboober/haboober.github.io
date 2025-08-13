@@ -48,7 +48,6 @@ I hope you enjoy it!
 - **Summary:** Focuses on the challenges and strategies in implementing IFPS/GFE technology specifically for regions characterized by complex terrain.
 - **Date:** 2002
 - **Link:** [Paper](/papers/AMS-2002-ImplementationGFE-.pdf)
-- **NWS Director Recomened Reading: Memo To NWS Regional Directors:** 
 
 ### 2. Interactive Forecast Preparation System (IFPS)
 - **Title:** Identifying Local Effects in Gridded Forecasts for the Interactive Forecast Preparation System (IFPS)
