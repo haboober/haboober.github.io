@@ -38,7 +38,7 @@ I hope you enjoy it!
 - **Developers:** Lee Carlaw (Lead Developer) and Jeffrey T. Davis (Developer and Project Manager) 
 - **Summary:** Local operational system to aid weather forecasters and the agriculture community in Arizona. The system uses a real-time 3DVAR analysis to downscale and bias-correct the NOAA SREF/GEFS ensemble forecast systems. The USDA/NASS CropScape product is combined with the ensemble predictions, especially for the probability of freezing temperatures, to provide precision risk forecasts for agriculture.
 - **Date:** 2015-2018
-- **Campanion White Paper:** [paper](/papers/IDSS.pdf)
+- **Companion White Paper:** [paper](/papers/IDSS.pdf)
 
 ## Conference Papers and Presentations
 #### Going Digital and Computer Worded Forecasts!!
