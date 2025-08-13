@@ -14,11 +14,11 @@ I hope you enjoy it!
 ### 1. One-dimensional Cloud Model 
 - **Title:** Potential Use of a One-dimensional Numerical Cloud Model at a Weather Service Office.
 - **Authors:** Jeffrey T. Davis
-- **Summary:** Describes a computer program and one-dimensional cloud model designed for the use of improving the accuracy of  thunderstorm forecasts, especially for hailstone size.
+- **Summary:** Describes a computer program and one-dimensional cloud model designed for the use of improving the accuracy of thunderstorm forecasts, especially for hailstone size.
 - **Date:** 1991
 - **Link:** [Paper](/papers/1991-1DCU-Model.pdf)
 
-### 2. Artificial Neural Network (ANN) and Linear Regression for the prediction of the Vertically Integrated Liquid Water (VIL) associated with the maximum hailstome size for the day. 
+### 2. Artificial Neural Network (ANN) and Linear Regression for the prediction of the Vertically Integrated Liquid Water (VIL) associated with the maximum hailstone size for the day. 
 - **Title:** Neural Network versus Multiple regression: Methods of estimating VIL thresholds for severe hail based on storm environment.
 - **Authors:** Jeffrey T. Davis
 - **Summary:** Compares the accuracy of a Neural Network (ANN) versus Linear Regression (LR) model for the prediction of VIL to the maximum hailstone size. Used operationally as a first-guess threshold of VIL values in initial warnings of severe thunderstorms with hail.
@@ -36,7 +36,7 @@ I hope you enjoy it!
 ### 4. Downscaling and Bias/Error Correction of the NOAA SREF/GEFS Ensemble Forecast Systems. Operational Applications for Arizona
 - **Title:** Operational Downscaling and Bias-Correction of NOAA's SREF/GEFS Ensembles using a real-time 3DVAR system (ARPS 3DVAR) as ground-truth.
 - **Developers:** Lee Carlaw (Lead Developer) and Jeffrey T. Davis (Developer and Project Manager) 
-- **Summary:** Local operational system to aid weather forecasters and the agriculture community in Arizona. The system uses a real-time 3DVAR analysis to downscale and bias-correct the NOAA SREF/GEFS ensemble forecast systems. The USDA/NASS CropScape product is combined with the ensemble predictions, especially for the probability of freezing temperatures, to provide precision risk forecasts for agriculture.
+- **Summary:** Local operational system to aid weather forecasters and the agricultural community in Arizona. The system uses a real-time 3DVAR analysis to downscale and bias-correct the NOAA SREF/GEFS ensemble forecast systems. The USDA/NASS CropScape product is combined with the ensemble predictions, especially for the probability of freezing temperatures, to provide precision risk forecasts for agriculture.
 - **Date:** 2015-2018
 - **Companion White Paper:** [paper](/papers/IDSS.pdf)
 
