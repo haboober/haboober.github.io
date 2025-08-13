@@ -40,12 +40,6 @@ I hope you enjoy it!
 - **Date:** 2015-2018
 - **Presentation:** [Paper](/papers/EnsembleBiasCorrection.pdf)
 - **Campanion White Paper:** [paper](/papers/IDSS.pdf)
-- **Notebook LLM Podcasts:**[Podcast]
-        <audio controls
-          <source src="/assets/audio/IDSS.mp3" type="audio/mpeg">
-          <source src="/assets/audio/IDSS.wav" type="audio/wav">
-          Your browser does not support the audio element.
-        </audio>
 
 ## Conference Papers and Presentations
 #### Going Digital and Computer Worded Forecasts!!
@@ -55,7 +49,7 @@ I hope you enjoy it!
 - **Summary:** Focuses on the challenges and strategies in implementing IFPS/GFE technology specifically for regions characterized by complex terrain.
 - **Date:** 2002
 - **Link:** [Paper](/papers/AMS-2002-ImplementationGFE-.pdf)
-- **NWS Director Recomened Reading: Memo To NWS Regional Directors:** [Memo](/papers/DirectorReading.png)
+- **NWS Director Recomened Reading: Memo To NWS Regional Directors:** 
 
 ### 2. Interactive Forecast Preparation System (IFPS)
 - **Title:** Identifying Local Effects in Gridded Forecasts for the Interactive Forecast Preparation System (IFPS)
