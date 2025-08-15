@@ -16,7 +16,7 @@ timezone: America/Arizona
 
 title: Haboober # the main title
 
-tagline: Retired NOAA Meteorologist and IT Systems Administrator # it will display as the subtitle
+tagline: Retired NOAA Meteorologist and IT System Administrator # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
