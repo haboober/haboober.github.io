@@ -11,8 +11,8 @@ I hope you enjoy it!
 
 # Past projects and applied research   
 ## NWP modeling and post processing
-### 1. One-dimensional Cloud Model 
-- **Title:** Potential Use of a One-dimensional Numerical Cloud Model at a Weather Service Office.
+### 1. One-Dimensional Cloud Model 
+- **Title:** Potential Use of a One-Dimensional Numerical Cloud Model at a Weather Service Office.
 - **Authors:** Jeffrey T. Davis
 - **Summary:** Describes a computer program and one-dimensional cloud model designed for the use of improving the accuracy of thunderstorm forecasts, especially for hailstone size.
 - **Date:** 1991
@@ -25,7 +25,14 @@ I hope you enjoy it!
 - **Date:** 1992
 - **White Paper:** [Paper](/papers/1992-VILpredictionUsingNeuralNetwork.pdf)
 
-### 3. Artificial Neural Network (ANN) for the Calibration of Quantitative Precipitation Forecasts
+### 3. Local Poor Man's Ensemble (Whitepaper)
+- **Title:** Local GFE Poor Man's Ensemble 
+- **Authors:** Jeffrey T. Davis
+- **Summary:** This whitepaper describes a technique used to downscale and error correct NWP model output and blend multiple model sources to produce a weighted consensus and probabilistic forecasts.
+- **Date:** 2004
+- **Link:** [Paper](/papers/2004-LocalPoorManEnsemble.pdf)
+
+### 4. Artificial Neural Network (ANN) for the Calibration of Quantitative Precipitation Forecasts
 - **Title:** SREF Heavy Precipitation Time Composite Situational Awareness Product (SAP)
 - **Authors:** Jeffrey T. Davis
 - **Summary:** Experimental NOAA/NWS Product For Heavy Precipitation Forecasts by NOAA's Short Range Ensemble Forecast System (SREF) and Situational Awareness. The product was derived from an Artificial Neural Network (ANN) that was used to calibrate the Probability of Quantitative Precipitation Forecasts (PQPF) from the SREF.
@@ -33,7 +40,7 @@ I hope you enjoy it!
 - **Link:** [Paper](/papers/SREF-EXP_SAP.pdf)
 - **Companion Presentation:** [Paper](/papers/PQPF.pdf)
 
-### 4. Downscaling and Bias/Error Correction of the NOAA SREF/GEFS Ensemble Forecast Systems. Operational Applications for Arizona
+### 5. Downscaling and Bias/Error Correction of the NOAA SREF/GEFS Ensemble Forecast Systems. Operational Applications for Arizona
 - **Title:** Operational Downscaling and Bias-Correction of NOAA's SREF/GEFS Ensembles using a real-time 3DVAR system (ARPS 3DVAR) as ground-truth.
 - **Developers:** Lee Carlaw (Lead Developer) and Jeffrey T. Davis (Developer and Project Manager) 
 - **Summary:** Local operational system to aid weather forecasters and the agricultural community in Arizona. The system uses a real-time 3DVAR analysis to downscale and bias-correct the NOAA SREF/GEFS ensemble forecast systems. The USDA/NASS CropScape product is combined with the ensemble predictions, especially for the probability of freezing temperatures, to provide precision risk forecasts for agriculture.
@@ -56,14 +63,21 @@ I hope you enjoy it!
 - **Date:** 2002
 - **Link:** [Paper](/papers/AMS-2002-IdentifyingLocalEffects.pdf)
 
-### 3. Making IFPS Climate Aware
+### 3. Bias Removal and Model Consensus Forecasts 
+- **Title:** Bias Removal and Model Consensus Forecasts of Maximum and Minimum Temperatures Using the Graphical Forecast Editor (GFE)
+- **Authors:** Jeffrey T. Davis
+- **Summary:** The paper discusses an approach for improving maximum and minimum temperature forecasts in the GFE is using a simple error correction  technique and a weighted consensus forecast from multiple guidance sources.
+- **Date:** 2004
+- **Link:** [Paper](/papers/BiasRemovalandConsensusForecasts-2004.pdf)
+
+### 4. Making IFPS Climate Aware
 - **Title:** Making IFPS More Climate Aware
 - **Authors:** Jeffrey T. Davis
 - **Summary:** Short description of using PRISM data to improve the accuracy of IFPS first-guess gridded forecasts.
 - **Date:** 2002
 - **Link:** [Paper](/papers/WR-2002-MakingGFEClimateAware.pdf)
 
-### 4. Grid-Base Verification of the IFPS/GFE System
+### 5. Grid-Base Verification of the IFPS/GFE System
 - **Title:** The NOAA?NWS Western Region Gridded Verification System 
 - **Authors:** Chris Jordan and Kirby Cook...Developed by Jeffrey T. Davis
 - **Summary:** Describes a grid-base verification system for the IFPS/GFE system. Was later replaced by BOIVERIFY, which uses a more sophisticated approach.
